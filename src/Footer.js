@@ -5,11 +5,9 @@ import './Footer.css';
 class Footer extends React.Component  {
   render(){
     return (
-      <>
-        <p>Author: Jacque Young</p>
-      </>
+      <footer>Author: Jacque Young<footer/>
    );
   }
 }
-}
+
 export default Footer;
