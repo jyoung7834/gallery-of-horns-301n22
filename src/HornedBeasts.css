@@ -1,0 +1,17 @@
+.item img {
+  width: 200px
+}
+
+.item {
+  border: solid purple;
+  width: max-content;
+  margin: auto;
+  margin-bottom: 30px;
+  padding: 20px;
+
+}
+
+.item button {
+  margin: 20px
+}
+
